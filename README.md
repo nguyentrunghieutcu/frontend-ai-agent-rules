@@ -62,3 +62,9 @@ Nếu dùng Claude Code hoặc Codex, đặt `CLAUDE.md` ở project root. Nếu
 - Prompt review rule AI hiện có.
 
 Gợi ý: dùng bản Free cho cá nhân, dùng bản Pro nếu muốn setup chuẩn cho nhiều project hoặc team.
+
+## Bản Pro
+
+Cần template cho Cursor, Gemini, Windsurf, Continue, GitHub Copilot, checklist review, git-flow, ví dụ theo Next.js/Vite/monorepo và prompt customize theo project thật?
+
+Xem bản Pro tại: https://trunghieu02.gumroad.com/l/vlgph

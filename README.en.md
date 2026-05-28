@@ -60,3 +60,9 @@ If you use Claude Code or Codex, place `CLAUDE.md` in the project root. If you u
 - Prompt for reviewing existing AI rule files.
 
 Use the Free version for personal projects. Use the Pro version when you want a more complete setup for multiple projects or a team.
+
+## Pro Version
+
+Need templates for Cursor, Gemini, Windsurf, Continue, GitHub Copilot, review checklists, git-flow guidance, Next.js/Vite/monorepo examples and project customization prompts?
+
+Get the Pro version: https://trunghieu02.gumroad.com/l/vlgph
